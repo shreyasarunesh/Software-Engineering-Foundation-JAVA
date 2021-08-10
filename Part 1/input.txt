@@ -1,0 +1,6 @@
+100, Shreyas Arunesh, 23, Class A, male, 5,5,5,5,5
+101, Arunesh Shreyas, 24, Class B, female, 3,0,3,0,3
+102, Shreyas Gowda, 25, Class C, male, 4,0,4,0,4
+103, Arunesh Gowda, 26, Class A, female, 5,0,5,0,5
+104, Gowda Arunesh, 27, Class B, male, 5,4,5,4,5
+105, Gowda Shreyas, 28, Class C, female, 0,0,0,0,0

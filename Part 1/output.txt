@@ -1,0 +1,52 @@
+Competior                               Age                 Level               Gender              Scores              Overall
+100  Shreyas Arunesh                    23                  Class A             male                5 5 5 5 5           5.0
+101  Arunesh Shreyas                    24                  Class B             female              0 0 3 3 3           3.0
+102  Shreyas Gowda                      25                  Class C             male                0 0 4 4 4           4.0
+103  Arunesh Gowda                      26                  Class A             female              0 0 5 5 5           5.0
+104  Gowda Arunesh                      27                  Class B             male                4 4 5 5 5           5.0
+105  Gowda Shreyas                      28                  Class C             female              0 0 0 0 0           0.0
+
+Full Details for 100:
+Shreyas Arunesh is an Chess player aged 23 having Cometitor number 100.
+Shreyas is a Class A player and has awarded with these scores : 5,5,5,5,5
+This gives an Overall Score of 5.0.
+Full Details for 101:
+Arunesh Shreyas is an Chess player aged 24 having Cometitor number 101.
+Arunesh is a Class B player and has awarded with these scores : 0,0,3,3,3
+This gives an Overall Score of 3.0.
+Full Details for 102:
+Shreyas Gowda is an Chess player aged 25 having Cometitor number 102.
+Shreyas is a Class C player and has awarded with these scores : 0,0,4,4,4
+This gives an Overall Score of 4.0.
+Full Details for 103:
+Arunesh Gowda is an Chess player aged 26 having Cometitor number 103.
+Arunesh is a Class A player and has awarded with these scores : 0,0,5,5,5
+This gives an Overall Score of 5.0.
+Full Details for 104:
+Gowda Arunesh is an Chess player aged 27 having Cometitor number 104.
+Gowda is a Class B player and has awarded with these scores : 4,4,5,5,5
+This gives an Overall Score of 5.0.
+Full Details for 105:
+Gowda Shreyas is an Chess player aged 28 having Cometitor number 105.
+Gowda is a Class C player and has awarded with these scores : 0,0,0,0,0
+This gives an Overall Score of 0.0.
+Short Details for 100:
+CN 100 (SA) has overall score 5.0.
+Short Details for 101:
+CN 101 (AS) has overall score 3.0.
+Short Details for 102:
+CN 102 (SG) has overall score 4.0.
+Short Details for 103:
+CN 103 (AG) has overall score 5.0.
+Short Details for 104:
+CN 104 (GA) has overall score 5.0.
+Short Details for 105:
+CN 105 (GS) has overall score 0.0.
+
+STATISTICAL
+There are 6 Compitiors
+The person with the highest score is Shreyas Arunesh with a score of 5.0.
+
+The following individual scores were awarded:
+Scores:   	1    2    3    4    5    
+Frequency:	0    0    1    1    3    
